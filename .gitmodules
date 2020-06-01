@@ -1,0 +1,3 @@
+[submodule "figureactionstore"]
+	path = figureactionstore
+	url = https://github.com/MarlonBeloMarques/figureactionstore-reactnative.git
