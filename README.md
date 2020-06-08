@@ -19,5 +19,5 @@ this project aims to develop several types of interface models in react native.
 ### 📌 Support
 Please contact me at one of the following places!
 
-Instagram on @marlomarquesbr
-Linkedin on Marlon Marques
+Instagram on [@marlomarquesbr](https://www.instagram.com/marlonmarqsbr/)
+Linkedin [Marlon Marques](https://www.linkedin.com/in/marlon-marques-0b509813b/)
