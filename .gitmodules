@@ -1,3 +1,6 @@
 [submodule "figureactionstore"]
 	path = figureactionstore
 	url = https://github.com/MarlonBeloMarques/figureactionstore-reactnative.git
+[submodule "shareworkenvironments"]
+	path = shareworkenvironments
+	url = https://github.com/MarlonBeloMarques/shareworkenvironments-reactnative.git
