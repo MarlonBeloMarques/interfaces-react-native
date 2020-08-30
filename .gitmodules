@@ -4,3 +4,6 @@
 [submodule "shareworkenvironments"]
 	path = shareworkenvironments
 	url = https://github.com/MarlonBeloMarques/shareworkenvironments-reactnative.git
+[submodule "monsterburgerdelivery-reactnative"]
+	path = monsterburgerdelivery-reactnative
+	url = https://github.com/MarlonBeloMarques/monsterburgerdelivery-reactnative.git
