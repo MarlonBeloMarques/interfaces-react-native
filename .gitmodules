@@ -10,3 +10,6 @@
 [submodule "freelancerprojects-reactnative"]
 	path = freelancerprojects-reactnative
 	url = https://github.com/MarlonBeloMarques/freelancerprojects-reactnative.git
+[submodule "myroutine-react-native"]
+	path = myroutine-react-native
+	url = https://github.com/MarlonBeloMarques/myroutine-react-native.git
