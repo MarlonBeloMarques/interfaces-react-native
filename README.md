@@ -10,6 +10,7 @@ this project aims to develop several types of interface models in react native.
 | [Share Work Environments](https://www.figma.com/file/l7WLsdpRLLY1UyGmjR1EJ6/interfacetemplates-share-work-environments?node-id=0%3A1) | <img src="./readme/interfacetemplates_share-work-environments.png" width="120" /> | 6 | ~16 hours | :white_check_mark: |
 | [Monster Burger Delivery](https://www.figma.com/file/azJo8X0abZMRPWvh4MfczM/interfacetemplates%2Fmonsterburger-delivery?node-id=0%3A1) | <img src="./readme/interfacetemplates-monsterburger-delivery.png" width="120" /> | 7 | ~1 week | :white_check_mark: |
 | [Freelancer Projects](https://www.figma.com/file/VkccwKi1HxnL0nG4RCixkg/interfacetemplates%2Ffreelance-projects?node-id=2%3A875) | <img src="./readme/interfacetemplates_freelance-projects.png" width="120" /> | 5 | ~16 hours | :white_check_mark: |
+| [My routine](https://www.figma.com/file/EoLb8vsdj0kGauabO1T3iI/interfacestemplates-my-routine?node-id=0%3A1) | <img src="./readme/interfacestemplates_my-routine.png" width="120" /> | 5 | ~4 days | :white_check_mark: |
 
 ---
 
